@@ -4,6 +4,14 @@ Welcome to my GitHub Pages! Here is a collection of my projects and coursework.
 
 ---
 
+## 📄 Publications
+
+- **Forecasting Gold Futures Prices: An Empirical Analysis Using the Vector Autoregression Model**
+  Wang, Z. (2024). *Advances in Economics, Management and Political Sciences*, 108, 116-123.
+  [Read the article](https://www.ewadirect.com/proceedings/aemps/article/view/15678)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 1. [AI Requirement Clarifier](https://github.com/zorro030104-debug/final_project_GenAI)
@@ -31,4 +39,3 @@ A starter project for building a Math Agent, likely serving as a foundation for 
 
 ## 📫 Contact
 - GitHub: [@zorro030104-debug](https://github.com/zorro030104-debug)
-- email: zwang564@jh.edu
