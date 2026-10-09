@@ -12,6 +12,14 @@ Welcome to my GitHub Pages! Here is a collection of my projects and coursework.
 
 ---
 
+## 📊 Reports & Presentations
+
+- **RAG (Retrieval-Augmented Generation) Report**
+  A presentation report on Retrieval-Augmented Generation.
+  [View the slides (Canva)](https://canva.link/0cd4rt39dzqwax2)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 1. [AI Requirement Clarifier](https://github.com/zorro030104-debug/final_project_GenAI)
